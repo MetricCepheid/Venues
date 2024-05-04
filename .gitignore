@@ -413,11 +413,3 @@ FodyWeavers.xsd
 # draw.io temp.backup files
 *.bkp
 *.dtmp
-
-# don't pull unneeded folders
-Common/*
-Unique/*
-# ignore common, unique, and VenueCreation meta
-Common.meta
-Unique.meta
-VenueCreation.*
