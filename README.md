@@ -30,12 +30,12 @@ YARG (a.k.a. Yet Another Rhythm Game) is a free, open-source, plastic guitar gam
 ## 📃 Table of Contents
 
 - [📃 Table of Contents](#-table-of-contents)
-- [✍️ Contributing](#️-contributing)
+- [✍️ Cloning](#️-cloning)
 - [🛡️ License](#️-license)
 - [🧰 External Licenses](#-external-licenses)
 - [📦 External Assets and Libraries](#-external-assets-and-libraries)
 
-## ✍️ Contributing
+## ✍️ Cloning
 
 1. Instead of cloning this repository, pull YARG's repository
    - [Link Here](https://github.com/YARC-Official/YARG)
