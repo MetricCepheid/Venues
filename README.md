@@ -39,21 +39,13 @@ YARG (a.k.a. Yet Another Rhythm Game) is a free, open-source, plastic guitar gam
 
 1. Instead of cloning this repository, pull YARG's repository
    - [Link Here](https://github.com/YARC-Official/YARG)
-2. After pulling YARG's repository, you want to open the **".gitmodules"** file that's in the root folder.
-3. If you pulled YARG's repository correctly, in the **".gitmodules"** file you should see the following
+2. After pulling YARG's repository, you want to open command line in the root YARG folder
+3. Enter this command as follows
 ```
-[submodule "Assets/Plugins/YARG.Core"]
-	path = YARG.Core
-	url = https://github.com/YARC-Official/YARG.Core
+git submodule add --name MetricsVenues https://github.com/Roystermeat/Venues.git Assets/Authoring/Venue/MetricsVenues
 ```
-4. You will want to add the following directly under, as such
-```
-[submodule "Assets/Authoring/Venue"]
-	path = Venue
-	url = https://github.com/Roystermeat/Venues
-```
-5. Then, in a terminal run **git submodule update**
-6. The venues folder should now be updated with the files from this repository.
+5. Then, in the command prompt run **git submodule update**
+6. The venues folder should now be updated with the files from this repository in the correct folder.
 
 ## 🛡️ License
 
