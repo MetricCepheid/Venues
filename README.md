@@ -22,8 +22,11 @@
 ```
 git submodule add --name MetricsVenues https://github.com/Roystermeat/Venues.git Assets/Authoring/Venue/MetricsVenues
 ```
-5. Then, in the command prompt run **git submodule update --init**
-6. The venues folder should now be updated with the files from this repository in the correct folder.
+5. Then, in the command prompt run
+```
+git submodule update --init
+```
+7. The venues folder should now be updated with the files from this repository in the correct folder.
 
 ## 📃 Credits
 
