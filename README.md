@@ -28,6 +28,6 @@ git submodule add --name MetricsVenues https://github.com/Roystermeat/Venues.git
 ## 📃 Credits
 
 I do not own any asset in these venue files.
-- **In the Half-Life folder, all of those assets are created and owned by Valve Corporation.**
+- **In the [Half-Life](https://store.steampowered.com/app/70/HalfLife/) folder, all of those assets are created and owned by [Valve Corporation](https://www.valvesoftware.com/en/).**
 
 ---
