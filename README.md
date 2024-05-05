@@ -1,3 +1,5 @@
+# This repo contains venues that I have created for [YARG](https://github.com/YARC-Official/YARG)
+
 ---
 
 ## 👉 Disclaimer
@@ -7,8 +9,10 @@
 
 ## 📃 Table of Contents
 
+- [👉 Disclaimer][#-disclaimer]
 - [📃 Table of Contents](#-table-of-contents)
 - [✍️ Cloning](#️-cloning)
+- [📃 Credits](#-credits)
 
 ## ✍️ Cloning
 
@@ -21,3 +25,10 @@ git submodule add --name MetricsVenues https://github.com/Roystermeat/Venues.git
 ```
 5. Then, in the command prompt run **git submodule update --init**
 6. The venues folder should now be updated with the files from this repository in the correct folder.
+
+## 📃 Credits
+
+I do not own any asset in these venue files.
+**In the Half-Life folder, all of those assets are created and owned by Valve Corporation.**
+
+---
