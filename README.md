@@ -9,7 +9,6 @@
 
 ## 📃 Table of Contents
 
-- [👉 Disclaimer][#-disclaimer]
 - [📃 Table of Contents](#-table-of-contents)
 - [✍️ Cloning](#️-cloning)
 - [📃 Credits](#-credits)
