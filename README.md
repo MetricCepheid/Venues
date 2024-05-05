@@ -20,6 +20,9 @@ YARG (a.k.a. Yet Another Rhythm Game) is a free, open-source, plastic guitar gam
 
 ## 👉 Disclaimer
 
+> [!VERY IMPORTANT]
+> **If you use the venue and build off what I built. PLEASE I am begging, credit me.**
+
 > [!IMPORTANT]
 > **YARG stands firmly against all forms of piracy.** We neither support nor endorse piracy, as it is a violation of copyright law with serious legal consequences. Our platform's importable content—designed for creators to share their work and for educational purposes—does not justify or excuse piracy.
 >
